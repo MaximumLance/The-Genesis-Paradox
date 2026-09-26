@@ -38,7 +38,7 @@ You can now play the randomized ROM. Please enjoy playing the new and improved G
 
 If anything goes wrong, it will create an error log file for both this main program and the logic script, depending on the issue. The console window on the right will also show an error depending on what part of the process failed.
 
-Please let me know of the seed # generated and I will work to update the script ASAP. You can find the seed # in the name of the file after the _. It looks like: 12345-7F. I'll need both sets of characters to be able to diagnose the issue. You can either post in our discord or shoot me an email: maximumlance2021 AT gmail.com
+Please let me know of the seed # generated and I will work to update the script ASAP. You can find the seed # in the name of the file after the underscore( _ ). It looks like: 12345-7F. I'll need both sets of characters to be able to diagnose the issue. You can either post in our discord or shoot me an email: maximumlance2021 AT gmail.com
 
 Special Thanks:
 
