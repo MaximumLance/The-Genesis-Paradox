@@ -7,21 +7,21 @@ Hello and Welcome to the new Wily Wars Randomizer: The Genesis Paradox!
 
 This new and improved version of the randomizer allows you to choose from the following options:
 
-Randomize all the games! Megaman, Megaman 2, Megaman 3, and Wily Tower can be chosen in any combination
+**Randomize all the games!** Megaman, Megaman 2, Megaman 3, and Wily Tower can be chosen in any combination
 
-Randomize all the bosses! Wily Tower Bosses are now included in the randomization pool
+**Randomize all the bosses!** Wily Tower Bosses are now included in the randomization pool
 
-Deeper randomization logic for weapons! Try the Fractured Timeline logic for a new experience!
+**Deeper randomization logic for weapons!** Try the Fractured Timeline logic for a new experience!
 
-No more game overs! Come and go as you please with an exit function built right in that will take you back to your last checkpoint!
+**No more game overs!** Come and go as you please with an exit function built right in that will take you back to your last checkpoint!
 
-Get equipped with acquired weapons! Collecting enough weapons or utility items will let you stop by the lab to maximize the damage and prepare for any situation!
+**Get equipped with acquired weapons!** Collecting enough weapons or utility items will let you stop by the lab to maximize the damage and prepare for any situation!
 
-No more resets! You can freely switch between any of the games chosen by pushing B+Start to go back to the Game Select menu!
+**No more resets!** You can freely switch between any of the games chosen by pushing B+Start to go back to the Game Select menu!
 
-Alternative Paths! Some parts of the stages allow different modes of traversal based on what you acquire!
+**Alternative Paths!** Some parts of the stages allow different modes of traversal based on what you acquire!
 
-Instructions:
+**Instructions:**
 To download the randomizer, click on the releases on the right and you'll see the zip file containing everything you need.
 
 1. After extracting, you can either place your European Source ROM in the folder with the Launcher or the randomizer program will ask you where it is and create a Source.conf file for later reference.
@@ -40,7 +40,7 @@ If anything goes wrong, it will create an error log file for both this main prog
 
 Please let me know of the seed # generated and I will work to update the script ASAP. You can find the seed # in the name of the file after the underscore( _ ). It looks like: 12345-7F. I'll need both sets of characters to be able to diagnose the issue. You can either post in our discord or shoot me an email: maximumlance2021 AT gmail.com
 
-Special Thanks:
+**Special Thanks:**
 
 Runex and Matrixz for their notes about Wily Wars
 
